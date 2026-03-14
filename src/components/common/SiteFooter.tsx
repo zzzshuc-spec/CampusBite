@@ -12,8 +12,8 @@ export function SiteFooter() {
             University Food Atlas
           </p>
           <p className="mt-4 text-sm font-semibold">大学城美食地图运营中心</p>
-          <p className="mt-3 text-sm">Tel: 400-889-2277</p>
-          <p className="text-sm">E-mail: support@campusbite.cn</p>
+          <p className="mt-3 text-sm">Tel: +86 13376960363</p>
+          <p className="text-sm">E-mail: zzzshuc@gmail.com</p>
           <nav className="mt-5 flex flex-wrap gap-2 text-sm">
             <Link href="/" className="hover:text-orange-600 dark:hover:text-orange-300">
               首页
@@ -31,7 +31,7 @@ export function SiteFooter() {
               健康饮食
             </Link>
           </nav>
-          <p className="mt-2 text-xs text-orange-700/65 dark:text-orange-200/60">粤ICP备202604188号</p>
+          <p className="mt-2 text-xs text-orange-700/65 dark:text-orange-200/60">粤ICP备XXXXXXX号</p>
         </section>
 
         <section>
@@ -39,7 +39,7 @@ export function SiteFooter() {
           <div className="mt-3 text-sm">
             <p className="font-semibold">华南运营中心</p>
             <p className="mt-1 text-orange-900/80 dark:text-orange-100/80">
-              广东省广州市天河区大学城创新路 88 号
+              深圳市南山区深圳大学城哈尔滨工业大学深圳校区
             </p>
             <p className="text-orange-900/80 dark:text-orange-100/80">
               CampusBite Campus Hub A座 10F
@@ -48,7 +48,7 @@ export function SiteFooter() {
           <div className="mt-4 text-sm">
             <p className="font-semibold">华东协作中心</p>
             <p className="mt-1 text-orange-900/80 dark:text-orange-100/80">
-              上海市杨浦区学林路 20 号创智空间 3F
+              上海市杨浦区XX路 XX 号创智空间 XF
             </p>
           </div>
         </section>
